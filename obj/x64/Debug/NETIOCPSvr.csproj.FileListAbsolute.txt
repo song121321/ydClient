@@ -20,3 +20,6 @@ E:\元大信息\client\NETIOCPSvr\obj\x64\Debug\SocketAsyncSvr.pdb
 E:\元大信息\client\NETIOCPSvr\bin\x64\Debug\SocketAsyncSvr.exe
 E:\元大信息\client\NETIOCPSvr\bin\x64\Debug\SocketAsyncSvr.pdb
 E:\元大信息\client\NETIOCPSvr\obj\x64\Debug\NETIOCPSvr.csprojResolveAssemblyReference.cache
+E:\元大信息\git\NETIOCPSvr\ydClient\bin\x64\Debug\SocketAsyncSvr.exe.config
+E:\元大信息\git\NETIOCPSvr\ydClient\obj\x64\Debug\SocketAsyncSvr.exe
+E:\元大信息\git\NETIOCPSvr\ydClient\obj\x64\Debug\SocketAsyncSvr.pdb
