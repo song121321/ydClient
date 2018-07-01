@@ -1,0 +1,11 @@
+D:\文档\10金田\灌溉信息自动化系统\压力测试\Mass Test-V1\NET_Source\NETIOCPSvr\bin\x64\Release\SocketAsyncSvr.exe.config
+D:\文档\10金田\灌溉信息自动化系统\压力测试\Mass Test-V1\NET_Source\NETIOCPSvr\bin\x64\Release\SocketAsyncSvr.exe
+D:\文档\10金田\灌溉信息自动化系统\压力测试\Mass Test-V1\NET_Source\NETIOCPSvr\bin\x64\Release\log4net.dll
+D:\文档\10金田\灌溉信息自动化系统\压力测试\Mass Test-V1\NET_Source\NETIOCPSvr\bin\x64\Release\log4net.xml
+D:\文档\10金田\灌溉信息自动化系统\压力测试\Mass Test-V1\NET_Source\NETIOCPSvr\obj\x64\Release\SocketAsyncSvr.exe
+D:\文档\10金田\灌溉信息自动化系统\压力测试\Mass Test-V2\NET_Source\NETIOCPSvr\bin\x64\Release\SocketAsyncSvr.exe.config
+D:\文档\10金田\灌溉信息自动化系统\压力测试\Mass Test-V2\NET_Source\NETIOCPSvr\obj\x64\Release\SocketAsyncSvr.exe
+D:\文档\10金田\灌溉信息自动化系统\压力测试\Mass Test-V2\NET_Source\NETIOCPSvr\bin\x64\Release\SocketAsyncSvr.exe
+D:\文档\10金田\灌溉信息自动化系统\压力测试\Mass Test-V2\NET_Source\NETIOCPSvr\bin\x64\Release\log4net.dll
+D:\文档\10金田\灌溉信息自动化系统\压力测试\Mass Test-V2\NET_Source\NETIOCPSvr\bin\x64\Release\log4net.xml
+D:\文档\10金田\灌溉信息自动化系统\压力测试\Mass Test-V2\NET_Source\NETIOCPSvr\obj\x64\Release\NETIOCPSvr.csprojResolveAssemblyReference.cache
